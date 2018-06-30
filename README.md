@@ -7,6 +7,7 @@
 Create an image gallery app that uses Flickr’s public feed (and its relevant filters) as a data source. Wireframes are provided as a guide for what your app should look like.
 You can find detailed information about the API on https://www.flickr.com/services/api/
 
+- [Reddit discussion](https://www.reddit.com/r/swift/comments/8v154q/messy_code_would_you_have_rejected_it/)
 
 ## Mandatory Requirements
 
